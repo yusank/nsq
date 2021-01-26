@@ -20,6 +20,7 @@ dist
 _site
 _posts
 *.dat
+.idea
 
 # Go.gitignore
 
