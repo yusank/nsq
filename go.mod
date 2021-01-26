@@ -14,6 +14,7 @@ require (
 	github.com/nsqio/go-diskqueue v1.0.0
 	github.com/nsqio/go-nsq v1.0.8
 	golang.org/x/sys v0.0.0-20191224085550-c709ea063b76 // indirect
+	github.com/vmihailenco/msgpack v4.0.4+incompatible
 )
 
 go 1.13
